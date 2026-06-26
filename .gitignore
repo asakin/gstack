@@ -37,3 +37,6 @@ supabase/.temp/
 
 # Throughput analysis — local-only, regenerate via scripts/garry-output-comparison.ts
 docs/throughput-*.json
+
+# Siglify — per-laptop team selection (gitignored so each machine picks its own)
+.siglify/siglify.yml
